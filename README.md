@@ -42,7 +42,7 @@ The main goal of this application is to use the skills we learned in class to cr
  ## Link to Deployed Webpage
 https://harveyzr.github.io/Weather-Dashboard/
  
-## Link to GetHub Website
+## Link to GitHub Website
 https://github.com/harveyzr/Weather-Dashboard
 
  ## Skills Used
