@@ -1,4 +1,4 @@
-# work-day-scheduler Quiz Challenge
+# Weather-Dashboard
 
 ## Table of Contents
 
