@@ -40,13 +40,13 @@ The main goal of this application is to use the skills we learned in class to cr
 ![Website Preview](assets/img/screen.jpg)
  
  ## Link to Deployed Webpage
-https://harveyzr.github.io/quizchallenge/
+https://harveyzr.github.io/Weather-Dashboard/
  
 ## Link to GetHub Website
-https://github.com/harveyzr/quizchallenge
-
+https://github.com/harveyzr/Weather-Dashboard
 
  ## Skills Used
 - JavaScript
 - bootstrap
-
+- jquery
+- Third party API's
