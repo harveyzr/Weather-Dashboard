@@ -1,4 +1,4 @@
-# work-day-scheduler Quiz Challenge
+# Weather-Dashboard
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
  ## Description
 The main goal of this application is to use the skills we learned in class to create a weather dashboard.
 
- Code quiz is the fourth challenge for the Ohio State coding bootcamp.
+ Weather Dashboard is the sixth challenge for the Ohio State coding bootcamp.
 -	My motivation for this project was to become proficient at coding HTML, CSS, Javascript, and bootstrap.  
 -	Building this project allowed me to implement coding techniques that I have been studying for the 6 weeks. 
 -	This page was a perfect example of real-world practices and solved the problem of assignments with no starter code. 
@@ -21,24 +21,23 @@ The main goal of this application is to use the skills we learned in class to cr
 
 
  ## User Story
-- AS A coding boot camp student
-- I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-- SO THAT I can gauge my progress compared to my peers
- 
- ## Acceptance Criteria
-- GIVEN I am taking a code quiz
-- WHEN I click the start button
-- THEN a timer starts and I am presented with a question
-- WHEN I answer a question
-- THEN I am presented with another question
-- WHEN I answer a question incorrectly
-- THEN time is subtracted from the clock
-- WHEN all questions are answered or the timer reaches 0
-- THEN the game is over
-- WHEN the game is over
-- THEN I can save my initials and score
+- AS A traveler
+- I WANT to see the weather outlook for multiple cities
+- SO THAT I can plan a trip accordingly
+
+  ## Acceptance Criteria
+- GIVEN a weather dashboard with form inputs
+- WHEN I search for a city
+- THEN I am presented with current and future conditions for that city and that city is added to the search history
+- WHEN I view current weather conditions for that city
+- THEN I am presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, and the the wind speed
+- WHEN I view future weather conditions for that city
+- THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
+- WHEN I click on a city in the search history
+- THEN I am again presented with current and future conditions for that city
+
  ## Images
-![Website Preview](assets/img/quiz%20gif.gif)
+![Website Preview](assets/img/screen.jpg)
  
  ## Link to Deployed Webpage
 https://harveyzr.github.io/quizchallenge/
